@@ -1,16 +1,17 @@
 ## About
 
-[![Windows-10](https://img.shields.io/badge/lintmx-com-0078d6?style=for-the-badge)](https://lintmx.com)
+[![lintmx](https://img.shields.io/badge/lintmx-com-0078d6?style=for-the-badge)](https://lintmx.com)
 
 #### On
 
-![Windows-10](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows&logoColor=0078d6)
-![macOS-Catalina](https://img.shields.io/badge/macOS-Catalina-999999?style=flat-square&logo=apple&logoColor=999999)
+![Windows-11](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=0078d6)
+![macOS-Monterey](https://img.shields.io/badge/macOS-Monterey-999999?style=flat-square&logo=apple&logoColor=999999)
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-Latest-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Debian](https://img.shields.io/badge/Debian-Buster-A81D33?style=flat-square&logo=debian&logoColor=A81D33)
 
 #### Use
 
+![JetBrains](https://img.shields.io/badge/-JetBrains-555?style=flat-square&logo=JetBrains&logoColor=fff)
 ![Visutal Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
 ![Vim](https://img.shields.io/badge/-Vim-555?style=flat-square&logo=vim&logoColor=019733)
 

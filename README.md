@@ -5,7 +5,7 @@
 #### On
 
 ![Windows-11](https://img.shields.io/badge/Windows-11-0078d6?style=flat-square&logo=windows&logoColor=0078d6)
-![macOS-Monterey](https://img.shields.io/badge/macOS-Monterey-999999?style=flat-square&logo=apple&logoColor=999999)
+![macOS-Sequoia](https://img.shields.io/badge/macOS-Sequoia-999999?style=flat-square&logo=apple&logoColor=999999)
 ![ArchLinux](https://img.shields.io/badge/ArchLinux-Latest-1793D1?style=flat-square&logo=arch-linux&logoColor=1793D1)
 ![Debian](https://img.shields.io/badge/Debian-Buster-A81D33?style=flat-square&logo=debian&logoColor=A81D33)
 
@@ -29,7 +29,7 @@ Maybe ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=c
 
 #### With
 
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=FFF)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=FFF)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=FFF)
